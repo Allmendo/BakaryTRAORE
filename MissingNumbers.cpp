@@ -26,7 +26,7 @@ vector<int> missingNumbers(vector<int> arr, vector<int> brr) {
   
     int sk = 0;
     int sn=n1-n;
-    int sc=0;
+      int sc=0;
     vector<int> rer(sn);
 
 //finding the missed elements
